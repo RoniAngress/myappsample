@@ -1,11 +1,10 @@
 
 
-public class app {
+public class login {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("My App!");
-		System.out.println("Login form");
+		System.out.println("login");
 	}
 
 }
